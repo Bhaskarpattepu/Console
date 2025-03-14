@@ -3,9 +3,6 @@ public class Main {
 
         System.out.println("Hello, World!");
         System.out.println("secondcommit");
-//new feature
-        System.out.println("new");
-        System.out.println("new");
 
     }
 }
