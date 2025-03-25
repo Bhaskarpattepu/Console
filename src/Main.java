@@ -6,6 +6,8 @@ public class Main {
         System.out.println("third commit");
         System.out.println("Fourth Commit");
 	System.out.println("new branch");
-    	System.out.println("new commit");
+	System.out.println("new commit");
+	System.out.println("new branch");
+
     }
 } 
